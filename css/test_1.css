@@ -1,0 +1,31 @@
+header, footer {
+    border: 2px solid #093a2e;
+    width: calc(80% + 70px);
+    background-color: black;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: brown;
+
+}
+.leftbl, .info {
+    border: 2px solid #093a2e;
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    float: left;
+
+}
+.leftbl{
+    width: 20%;
+    }
+.info{
+    width: 63%;
+}
+.leftbl{
+    margin-left: 5%;
+}   
