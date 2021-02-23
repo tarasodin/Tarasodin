@@ -5,3 +5,11 @@ body{
     font-size: 50px;
     color: brown;
 }
+.fo{
+    background-color: blueviolet;
+}
+.footer{
+    background-attachment: fixed;
+    background-color: brown;
+    font-size: 52px;
+}

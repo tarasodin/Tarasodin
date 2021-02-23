@@ -29,3 +29,11 @@ header, footer {
 .leftbl{
     margin-left: 5%;
 }   
+.hed{
+    background-color: crimson;
+    font-size: 25px;
+}
+.footer{
+    font: 1em sans-serif;
+    font-size: 20px;
+}
